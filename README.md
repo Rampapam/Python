@@ -12,9 +12,9 @@ Data analysis project to help an online grocery store that operates through an a
 
 ## Tools
 - Python
-- Jupyther notebook
+- Jupyther notebook (anaconda3)
 - Libraries: pandas, NumPy, os, matplotlib, scipy, and seaborn
-- Anaconda
+
 
 ## Project & Challenges 
 Python data analysis project to help with a marketing strategy for an online grocery store:  
